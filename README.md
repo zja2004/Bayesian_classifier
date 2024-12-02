@@ -1,2 +1,2 @@
 # Bayesian_classifier
-Mechine learning homework four
+Machine learning homework four
